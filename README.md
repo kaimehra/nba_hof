@@ -1,1 +1,3 @@
 # nba_hof
+Can a player be classified as a hall of famer based on their birth year, height, weight, position, and number of all star appearances?
+Most contemporary analyses and discussions of a player’s hall of fame likelihood rely on performance statis- tics (i.e. points per game, total career assists), individual awards (Most Valuable Player awards, All-NBA selections), and team awards (championships, playoff success). I am curious whether a simplistic model tak- ing into account a players era (through birth year), physical characteristics (height, weight, and position), and performance (all star selections) can classify HOF probability well, or are more complicated models like BR’s required.
